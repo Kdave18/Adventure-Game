@@ -1,7 +1,5 @@
 # Adventure-Game
 
-# Adventure Game
-
 Welcome to the Adventure Game! This is a simple, text-based Python game where you make choices that determine the outcome of your adventure. Your decisions lead to different paths and endings. Will you survive or lose the game? It all depends on your choices!
 
 ## Features
